@@ -9,6 +9,13 @@
 - Si tienes problemas hay muchos tutoriales y videotutoriales por Internet.
 
 
+## ArduinoBlock
+
+- ArduinoBlock te permite programar en bloques en la [siguiente web](http://www.arduinoblocks.com/). Para poder cargar el programa en tu Arduino tienes que instalar ArduinoBlocks-Connector (conecta ArduinoBlock con tu Arduino).
+
+- [Enlace para descargar ArduinoBlocks-Connector](- [Enlace para descarga](https://www.arduino.cc/en/Main/Software)).
+
+
 ## Arduinodroid en móviles
 
 - [Enlace para descarga](https://play.google.com/store/apps/details?id=name.antonsmirnov.android.arduinodroid2&hl=es&gl=US).
