@@ -29,8 +29,27 @@
 
 # Excepciones con placa WAVGAT
 
-Para usar la placa de Arduino Uno WAVGAT seguir las instrucciones siguientes:
+![](placa-wavgat-arduino-r3.jpg)
 
+## ¿Qué es?
+
+La placa WAVGAT-UNO-R3 es una placa análoga a Arduino UNO pero con un coste mucho menor. Interacciona con el entorno Arduino IDE al igual que la placa original conviendose en una opción barata para aprender a programar un Arduino.
+
+## Configuración
+Las placas WAVGAT contienen el chip barato CH430 que sustituye a otros originales de Arduino UNO. Esto implica la **necesidad de configurar la placa WAVGAT para que sea reconocida por software Arduino IDE**. Los pasos a seguir para reconocer la placa son los siguientes:
+
+1. Instalación de Arduino IDE;
+
+2. Instalar drivers para el chip CH340;
+Los archivos necesarios están distribuidos en tres carpetas. Éstas se pueden encontrar dentro de un zip en este repositorio. [update.zip](update.zip) 
+* Windows
+    * Copia las tres carpetas (hardware, libraries, sketches) dentro de la ruta C:\Users\Administrator\Documents\Arduino
 ![](wavgat_instrucction.png)
+* Linux
+    * Copia las tres carpetas (hardware, libraries, sketches) dentro de la ruta home\$User\Arduino
 
-Las carpetas necesarias que se indican en las instrucciones están en el archivo de este repositorio [update.zip](update.zip)
+3. Reinicia Arduino IDE
+
+4. Selecciona la tarjeta WYAGAT UNO R3 en Herramientas>Placa
+
+![](arduino-ide-wavgat.jpg)
