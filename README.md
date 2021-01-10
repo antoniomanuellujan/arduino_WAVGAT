@@ -8,12 +8,14 @@
 
 - Si tienes problemas hay muchos tutoriales y videotutoriales por Internet.
 
+- Para la placa WAVGAT tienes que agregar las carpetas indicadas en el apartado "Excepciones con placa WAVGAT".
+
 
 ## ArduinoBlock
 
 - ArduinoBlock te permite programar en bloques en la [siguiente web](http://www.arduinoblocks.com/). Para poder cargar el programa en tu Arduino tienes que instalar ArduinoBlocks-Connector (conecta ArduinoBlock con tu Arduino).
 
-- [Enlace para descargar ArduinoBlocks-Connector](http://www.arduinoblocks.com/web/site/abconnector)).
+- [Enlace para descargar ArduinoBlocks-Connector](http://www.arduinoblocks.com/web/site/abconnector).
 
 
 ## Arduinodroid en móviles
