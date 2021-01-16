@@ -4,6 +4,10 @@
 
 - [Enlace para descarga](https://www.arduino.cc/en/Main/Software).
 
+- Enlace de ayuda para instalarlo:
+
+    https://www.youtube.com/watch?v=WqjT_YpwGRI
+
 - Cuando estés en el programa (Arduino IDE) asegúrate de seleccionar la **placa** ( Herramientas>Placa>ArduinoUno) y el **puerto** de salida ( Herramientas>Puerto>_selecciona uno hasta que funcione_).
 
 - Si tienes problemas hay muchos tutoriales y videotutoriales por Internet.
@@ -45,8 +49,16 @@ Los archivos necesarios están distribuidos en tres carpetas. Éstas se pueden e
 * Windows
     * Copia las tres carpetas (hardware, libraries, sketches) dentro de la ruta C:\Users\Administrator\Documents\Arduino
 ![](wavgat_instrucction.png)
+    * Enlace de ayuda para instalarlo:
+
+        https://www.youtube.com/watch?v=qLps-XMcJyo
+
 * Linux
     * Copia las tres carpetas (hardware, libraries, sketches) dentro de la ruta home\$User\Arduino
+
+- Enlaces de ayuda:
+
+https://www.youtube.com/watch?v=qLps-XMcJyo
 
 3. Reinicia Arduino IDE
 
